@@ -1,0 +1,27 @@
+
+body {
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+   
+
+    
+}
+
+header  {
+    background-color: rgb(236, 231, 240);
+
+    
+}
+main {
+    background-color: rgb(236, 231, 240);
+}
+.contenido {
+    display: flex;
+    
+
+}
+
+footer {
+    background-color: rgb(236, 231, 240);
+}
